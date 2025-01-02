@@ -1,4 +1,4 @@
-name: XCS224N
+name: nmt
 channels:
   - defaults
   - conda-forge

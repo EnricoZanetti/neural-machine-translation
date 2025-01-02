@@ -1,4 +1,4 @@
-name: XCS224N_CUDA
+name: nmt_cuda
 channels:
   - defaults
   - conda-forge
