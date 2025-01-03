@@ -19,7 +19,7 @@ from itertools import chain
 import json
 import torch
 from typing import List
-from submission import read_corpus, pad_sents
+from core import read_corpus, pad_sents
 import sentencepiece as spm
 
 
