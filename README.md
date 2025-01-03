@@ -20,6 +20,12 @@ The repository provides scripts for training, evaluating, and decoding sentences
 
 5. **Beam Search Decoding**: Enables efficient generation of translations during inference.
 
+<p align="center">
+  <img src="images/nmt-image.png" alt="nmt-architecture" width="500"/>
+</p>
+
+The image illustrates the Seq2Seq model’s Encoder-Decoder architecture, showing how the encoder processes the input sentence into context vectors (h, c), while the decoder generates the output sentence step-by-step using attention mechanisms. It visualizes the flow from input tokens to output tokens with attention-based alignment, exemplifying the neural machine translation process.
+
 ## Installation
 
 ### Using Conda
