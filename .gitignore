@@ -42,7 +42,6 @@ MANIFEST
 
 # Output files
 *.npy
-*.png
 output/
 
 # Jupyter Notebooks
